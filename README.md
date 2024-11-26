@@ -5,7 +5,7 @@
 - <b>Oracle Apex</b>
   - [School Management System](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Oracle Forms and Reports</b>
-  - [School Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [School Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PHP, MySQL</b>
   - [Library Management System](https://github.com/joshmadakor1/Sentinel-Lab)
 
