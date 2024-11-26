@@ -7,7 +7,7 @@
 - <b>Oracle Forms and Reports</b>
   - [School Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PHP, MySQL</b>
-  - [Library Management System](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Library Management System](https://github.com/yameen-nayan/libraryManagementSystem/blob/main/README.md)
 
 <!--<h2>📺 Popular YouTube Videos</h2>
 
