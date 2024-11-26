@@ -3,7 +3,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Oracle Apex</b>
-  - [School Management System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [School Management System](https://github.com/yameen-nayan/sms2/blob/main/README.md)
 - <b>Oracle Forms and Reports</b>
   - [School Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PHP, MySQL</b>
