@@ -5,7 +5,7 @@
 - <b>Oracle Apex</b>
   - [School Management System](https://github.com/yameen-nayan/sms2/blob/main/README.md)
 - <b>Oracle Forms and Reports</b>
-  - [School Management System](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [School Management System](https://github.com/yameen-nayan/sms1/blob/main/README.md) 
 - <b>PHP, MySQL</b>
   - [Library Management System](https://github.com/yameen-nayan/libraryManagementSystem/blob/main/README.md)
 
