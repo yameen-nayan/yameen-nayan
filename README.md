@@ -3,11 +3,11 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Oracle Apex</b>
-  - [School Management System](https://github.com/yameen-nayan/sms2/blob/main/README.md)
+  - [School Management System](https://github.com/yameen-nayan/sms2/tree/main)
 - <b>Oracle Forms and Reports</b>
-  - [School Management System](https://github.com/yameen-nayan/sms1/blob/main/README.md) 
+  - [School Management System](https://github.com/yameen-nayan/sms1) 
 - <b>PHP, MySQL</b>
-  - [Library Management System](https://github.com/yameen-nayan/libraryManagementSystem/blob/main/README.md)
+  - [Library Management System](https://github.com/yameen-nayan/libraryManagementSystem)
 
 <!--<h2>📺 Popular YouTube Videos</h2>
 
